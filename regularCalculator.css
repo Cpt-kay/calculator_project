@@ -1,0 +1,39 @@
+form {
+margin: auto;
+width: 300px;
+max-width: 300px;
+height: 350px;
+background-color: lightslategray;
+align-content: center;
+border-radius: 5px;
+margin-top: 50px;
+}
+
+#display {
+    width: 280px;
+    margin: 5px;
+    align-self: center;
+    height: 50px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.row{
+    width: inherit;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+
+input{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    margin-top: 10px;
+}
+
+#clear{
+    background-color: orange;
+    
+}
+
